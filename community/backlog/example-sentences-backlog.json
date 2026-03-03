@@ -23,7 +23,7 @@
     "english": "It looks like rain, so let's bring an umbrella.",
     "jlpt": "N4",
     "id": 3,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1068,7 +1068,7 @@
     "jlpt": "N3",
     "id": 119,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "彼女は忙しいはずなのに、いつも丁寧に返信してくれる。",
