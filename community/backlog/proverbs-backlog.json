@@ -277,7 +277,7 @@
     "romaji": "Saru mo ki kara ochiru",
     "english": "Even monkeys fall from trees",
     "meaning": "Experts can make mistakes",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -296,7 +296,7 @@
     "english": "Kindness is not for others",
     "meaning": "A good deed returns to you",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 34,
@@ -305,7 +305,7 @@
     "english": "Even Kobo makes mistakes with his brush",
     "meaning": "Even masters make mistakes",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 35,
